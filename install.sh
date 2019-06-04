@@ -23,7 +23,7 @@ cd -
 sudo cp nginx.conf /usr/local/nginx/conf/
 
 # add video tag into /usr/local/nginx/html/hls.html
-sudo cp player_player.html /usr/local/nginx/html/
+sudo cp web/player_hls.html /usr/local/nginx/html/
 
 # start nginx
 sudo /usr/local/nginx/sbin/nginx
