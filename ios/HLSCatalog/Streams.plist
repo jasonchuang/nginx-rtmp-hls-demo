@@ -6,7 +6,7 @@
 		<key>name</key>
 		<string>Basic Stream</string>
 		<key>playlist_url</key>
-		<string>https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8</string>
+		<string>http://104.199.220.166/hls/index.m3u8</string>
 	</dict>
 	<dict>
 		<key>name</key>
